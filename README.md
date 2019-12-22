@@ -24,17 +24,16 @@
 * пятый элемент
 
 __Объекты__
-https://www.markdownguide.org/
-[текст]( https://www.markdownguide.org )
-текст 
-[текст](https://www.markdownguide.org "это поможет")
+1. https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+2. akimenko_d01@mail.ru
+3.[гиперссылка](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0)
+4.[гиперссылка](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0 "статья из википедии")
 
 Картинки
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
 
 Таблицы
 1|2|3
----|:---:|---:
 да|нет|не знаю
 не знаю|нет|да
 нет|не знаю|да
