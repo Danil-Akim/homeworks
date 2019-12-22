@@ -32,7 +32,7 @@ __Объекты__
 Картинки
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
 
-Markdown | не такой | красивый
+Как же | я устал | это делать
 --- | --- | ---
 *Но выводится* | `так же` | **клево**
 1 | 2 | 3
